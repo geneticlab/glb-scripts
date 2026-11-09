@@ -1,3 +1,4 @@
+<script>
 (function() {
   if (sessionStorage.getItem('hideGlPromoBanner')) return;
   if (document.getElementById('site-custom-banner')) return;
